@@ -1,0 +1,26 @@
+body {
+    background-color: rgb(11, 35, 79);
+    color: rgb(255, 255, 255);
+    font-style: ;
+}
+.container{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+}
+/* .red{
+    color: red;
+}
+.yellow{
+    color: yellow;
+}
+.green{
+    color: green;
+} */
+.gh-tag{
+    text-decoration: underline;
+    text-decoration-color: white;
+    background: linear-gradient(to right, red , yellow, green);
+			-webkit-text-fill-color: transparent;
+			-webkit-background-clip: text;
+}
