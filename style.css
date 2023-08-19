@@ -4,9 +4,11 @@ body {
 }
 .container{
     display: flex;
+    flex-direction: column;
     justify-content: center;
     text-align: center;
 }
+
 /* .red{
     color: red;
 }
@@ -22,4 +24,24 @@ body {
     background: linear-gradient(to right, red , yellow, green);
 			-webkit-text-fill-color: transparent;
 			-webkit-background-clip: text;
+}
+.gh-tag:visited{
+    text-decoration: white;
+}
+.middle-box{
+
+}
+.l-box{
+    
+
+}
+.list{
+    list-style-type: none;
+    padding-left: 0;
+}
+.twitter{
+    color: white;
+}
+.twitter:visited{
+    text-decoration: white;
 }
