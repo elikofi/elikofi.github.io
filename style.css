@@ -7,6 +7,7 @@ body {
     flex-direction: column;
     justify-content: center;
     text-align: center;
+    font-size: smaller;
 }
 
 /* .red{
@@ -39,9 +40,9 @@ body {
     list-style-type: none;
     padding-left: 0;
 }
-.twitter{
+.link{
     color: white;
 }
-.twitter:visited{
+.link:visited{
     text-decoration: white;
 }
